@@ -4,3 +4,5 @@ s
 Upadte to local
 
 Now I will call pull and update the file. 
+
+clone repo
